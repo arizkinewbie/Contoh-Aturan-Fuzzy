@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Python3 ANSI VT100 implementation of Erase Screen."
+name = "vtclear"
+optional = false
+python-versions = "*"
+version = "0.9"
+
+[metadata]
+content-hash = "a5b022bdc664c6191fb837aa49f6c212a98643a122d1f05d0614a70fd55f2eeb"
+python-versions = "^3.8"
+
+[metadata.files]
+vtclear = [
+    {file = "vtclear-0.9.tar.gz", hash = "sha256:b02d95c84e4255abfad440c3553d10442d7b399ee37e8ac8cac3d1f1a7f66855"},
+]
